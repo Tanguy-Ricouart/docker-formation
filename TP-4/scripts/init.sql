@@ -1,0 +1,3 @@
+CREATE DATABASE stage;
+CREATE TABLE stage.t1(id INT);
+INSERT INTO stage.t1 VALUES (1),(2),(3),(4);
